@@ -1,0 +1,7 @@
+datasource,table_name,load_type,is_active
+fpl-api,players,full,1
+fpl-api,positions,full,1
+fpl-api,teams,full,1
+fpl-api,fixtures,full,1
+fpl-api,gameweeks,full,1
+fpl-api,gameweek_live,incremental,1
